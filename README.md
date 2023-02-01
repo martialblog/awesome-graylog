@@ -38,4 +38,4 @@ A curated list of amazingly awesome Graylog resources.
 - [Graylog OPENSOC CTF Tool Demo](https://www.youtube.com/watch?v=RoGh-X0wEvk) DEF CON Safe Mode Blue Team Village, Lennart Koopmann
 - [Graylog: one tool to log 'em all](https://www.youtube.com/watch?v=-o3D-wH4hDI) GeeCON 2017, Piotr Przybył
 - [Monitoring Linux and Windows Logs with the Graylog Collector](https://www.youtube.com/watch?v=bHNDS6Z_Ma0) OSMC 2015, Bernd Ahlers
-- [The Art of the Possible with OpenSearch Anomaly Detection and UEBA](https://www.youtube.com/watch?v=Be1FAcDHNO4) Lennart Koopmann
+- [The Art of the Possible with OpenSearch Anomaly Detection and UEBA](https://www.youtube.com/watch?v=Be1FAcDHNO4) OpenSearchCon 2022, Lennart Koopmann
