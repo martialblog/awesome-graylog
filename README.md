@@ -29,6 +29,7 @@ A curated list of amazingly awesome Graylog resources.
 
 - [Beats](https://www.elastic.co/beats/)
 - [Sigma Rule](https://github.com/SigmaHQ/sigma)
+- [GROK Debugger](https://grokdebugger.com/)
 
 # Videos
 
