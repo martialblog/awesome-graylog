@@ -13,6 +13,7 @@ A curated list of amazingly awesome Graylog resources.
 - [Case Study: Large-Scale Log Management Deployment](https://uploads-ssl.webflow.com/5ac133a161e365de41ae40d3/5b439fa45a717805ecd1c1cf_Pan-Net%20Deployment%20with%20Graylog.pdf)
 - [Graylog at Scale](https://tech.new-work.se/graylog-at-scale-b20aabd55cc4?gi=1f21c3894162)
 - [Logging at scale using Graylog](https://www.rohit.io/res/talks/logging-at-scale-using-graylog-billion-messages-100k-req-sec/#1)
+- [Detecting Threats with Graylog Pipelines](https://blog.reconinfosec.com/detecting-threats-with-graylog-pipelines)
 
 # Discussions and social media
 
